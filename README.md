@@ -1,2 +1,2 @@
-# my-first-project--systemic-programming-
+# my-first-project-systemic-programming-
 systemic programming
